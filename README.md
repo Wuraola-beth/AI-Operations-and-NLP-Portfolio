@@ -22,4 +22,4 @@ Adapted a pre-trained bidirectional encoder for binary sequence classification u
 ---
 
 ## 🛠️ How to View the Code
-* Run the code directly by reviewing the `wuraolaassignment1.py` file uploaded in this repository.
+* Run the code directly by reviewing the `fine-turning BERT for sentiment analysis` file uploaded in this repository.
